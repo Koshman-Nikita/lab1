@@ -1,0 +1,6 @@
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1Lexer.cs
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1Parser.cs
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1Listener.cs
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1BaseListener.cs
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1Visitor.cs
+C:\Users\WS777\Desktop\Lab1\obj\Debug\netcoreapp3.1\Lab1BaseVisitor.cs
